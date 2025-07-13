@@ -19,7 +19,7 @@ function P2text() {
     return (
         <div>
             <h1>
-                Fuck you nigga
+                This uses main as the middleman
             </h1>
         </div>
     )
